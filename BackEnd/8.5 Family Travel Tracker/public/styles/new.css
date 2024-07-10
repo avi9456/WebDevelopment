@@ -8,7 +8,7 @@ body {
   left: 35%;
   transform: translate(-35%, -35%);
   font-family: "Roboto";
-  color: #ffffff;
+  /* color: #ffffff; */
 }
 input[type="radio"] {
   display: none;
